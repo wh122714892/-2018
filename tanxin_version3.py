@@ -1,5 +1,5 @@
 import math
-
+#写的比骄乱，也没整理，整体思路就是按找对应服务器的比例进行放置。
 def knapsack_version3(Vm_list,input_lines,cpu_memory_choose): 
     
     # cpu = int(input_lines[0].split( )[0])   
