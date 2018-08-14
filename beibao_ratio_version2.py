@@ -2,6 +2,7 @@ import math
 import time
 import copy
 import random
+#复赛题目放置，主要就是运用了多次背包，然后按照比例进行融合
 def multi_knapsack_veersion2(vm_list,input_list):
     # cpu = int(input_lines[0].split( )[0])   
     # mem = int(input_lines[0].split( )[1])
